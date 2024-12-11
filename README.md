@@ -14,8 +14,7 @@ A simple yet elegant project demonstrating animated social media buttons using o
 
 ## Preview
 
-![Animated Social Button Preview](![Animated](https://github.com/user-attachments/assets/541da486-f4fa-4df4-8b41-7037c69f9ab7)
-)
+![Animated](https://github.com/user-attachments/assets/541da486-f4fa-4df4-8b41-7037c69f9ab7)
 
 > Replace the placeholder URL with a screenshot or GIF of your project.
 
