@@ -3,20 +3,19 @@ A simple yet elegant project demonstrating animated social media buttons using o
 
 ## Features
 
-- **Responsive Design**: Works seamlessly across devices.
 - **Smooth Animations**: Eye-catching hover effects for an engaging user experience.
 - **Minimalistic Code**: Easy to understand and customize.
 
 ## Technologies Used
 
-- **HTML5**: For structuring the content.
-- **CSS3**: For styling and animations.
+- **HTML**: For structuring the content.
+- **CSS**: For styling and animations.
 
 ## Preview
 
 ![Animated](https://github.com/user-attachments/assets/541da486-f4fa-4df4-8b41-7037c69f9ab7)
 
-> Replace the placeholder URL with a screenshot or GIF of your project.
+
 
 ## Usage
 
@@ -24,7 +23,7 @@ To view or modify the project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Animated-Social-Button.git
+    git clone https://github.com/Seboo-Dogar/Animated-Social-Button.git
     ```
 
 2. Navigate to the project directory:
@@ -40,4 +39,4 @@ To view or modify the project locally:
 
 ---
 
-Enjoyed the project? Give it a star on [GitHub](https://github.com/yourusername/Animated-Social-Button)! 😊
+Enjoyed the project? Give it a star on [GitHub](https://github.com/Seboo-Dogar/Animated-Social-Button.git)! 😊
