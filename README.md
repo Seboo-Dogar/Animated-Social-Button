@@ -36,3 +36,8 @@ To view or modify the project locally:
     ```bash
     open index.html
     ```
+
+
+---
+
+Enjoyed the project? Give it a star on [GitHub](https://github.com/yourusername/Animated-Social-Button)! 😊
